@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="login">Masuk</string>
+    <string name="logout">LogOut</string>
+    <string name="signup">Daftar</string>
+    <string name="title_login">Login dulu kuy!</string>
+    <string name="title_register">Masukin data diri kamu dulu yuk!</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="detail">Ini detail ya boss</string>
+    <string name="title_upload">Upload Story</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Deskripsi</string>
+    <string name="empty_image_warning">Silakan pilih gambar terlebih dahulu</string>
+</resources>
